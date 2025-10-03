@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @plainduck67
-- 👀 I’m interested in Ai, hacking, flash drives, and operating systems
-- 🌱 I’m currently learning python
+- 👀 I’m interested in operating systems, firmware and shells
+- 🌱 I’m currently learning C#
 - 📫 How to reach me plainduck67@gmail.com
 - 😄 Pronouns: He/him
 
